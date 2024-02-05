@@ -18,7 +18,7 @@
 #### 팀프로젝트 : yolo기반 데이터 증강, 준지도학습을 활용하여 화상 이미지 분석
 [접근 과정](https://blog.naver.com/cbrnt1210/222857915789)
 
-최종 모델을 기반으로 학회 논문 제출 : [한글](https://docs.google.com/document/d/1N6WAI5JXIahWSPMiDUZCJKKbHlWLqd3Y/edit), [영문](https://docs.google.com/document/d/1M0WIKAzMmSEOP4WGxu70QNZPFE6FKA25/edit)
+최종 모델을 기반으로 CSA 2022 The 14th International Conference on Computer Science and its Applications 학회에 논문 제출 : [한글](https://docs.google.com/document/d/1N6WAI5JXIahWSPMiDUZCJKKbHlWLqd3Y/edit), [영문](https://docs.google.com/document/d/1M0WIKAzMmSEOP4WGxu70QNZPFE6FKA25/edit)
 
 #### 느낀점
 * 처음 팀프로젝트와 논문을 작성하게 된 계기
@@ -35,7 +35,7 @@
 <br>
 
 ### 2023 여름방학 [SW중심대학공동AI경진대회](https://dacon.io/competitions/open/236092/overview/description)
-
+[관련 코드](https://github.com/sinyeong10/2023-SW-AI)
 
 #### 느낀점
 단일 모델만 접근했을 때 segformer모델이 Unet모델보다 더 향상된 결과가 나왔다.
@@ -65,10 +65,38 @@
 
 [![코드트리|실력진단-cbrnt1210](https://banner.codetree.ai/v1/banner/cbrnt1210)](https://www.codetree.ai/profiles/cbrnt1210)
 
+<br>
+
 #### 그누빌
 2023년 1학기 알고리즘 스터디 : [취업과 이직을 위한 프로그래머스 코딩 테스트 문제 풀이 전략 : 파이썬 편](https://www.yes24.com/Product/Goods/117372831)
 
 2023년 2학기 알고리즘 스터디 : [Do it! 알고리즘 코딩 테스트: 파이썬 편](https://www.yes24.com/Product/Goods/111686187)
 
-##
+<br>
+
+#### 학교 활동
+2022년 1학기 우리 함께, 코딩해봄 C 튜티
+
+[수업 내용](https://blog.naver.com/cbrnt1210)
+
+2023년 2학기 코딩존 조교
+
+##### 기억하고 싶은 문제
+1. 2022년 1학기 자료구조 수업 : 아군적군
+[접근 과정](https://blog.naver.com/cbrnt1210/222752651833) [풀이](https://blog.naver.com/cbrnt1210/222754663742)
+
+2. 2023년 1학기 고급문제해결기법및실습 수업 : 계란문제
+[접근 과정](https://blog.naver.com/cbrnt1210/223067771219)
+
+3. 2023년 1학기 설계패턴 수업의 프로젝트 : 계란문제의 여러 풀이를 학습할 수 있는 프로젝트를 디자인 패턴을 적용하여 작성
+[관련 코드](https://blog.naver.com/cbrnt1210/223125445596)
+
+<br>
+
+## 생활패턴
+
+
+
+
+
 
