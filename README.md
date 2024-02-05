@@ -56,6 +56,14 @@
 
 <br>
 
+### 6. 2023년 2학기 딥러닝 수업 팀프로젝트 : [Child Mind Institute - Detect Sleep States](https://www.kaggle.com/competitions/child-mind-institute-detect-sleep-states)
+[관련 코드](https://github.com/Baek-Geonwoo/child-mind)
+
+#### 느낀점
+
+
+<br>
+
 ## 좋아하는 것
 ### 알고리즘
 #### 코드트리
