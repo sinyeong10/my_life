@@ -25,7 +25,7 @@
 #### 목표 : 화상 이미지 데이터를 통해 화상의 정도 판별
 [접근 과정](https://blog.naver.com/cbrnt1210/222857915789)
 
-최종 모델을 기반으로 CSA 2022 The 14th International Conference on Computer Science and its Applications 학회에 논문 제출 : [한글](https://docs.google.com/document/d/1N6WAI5JXIahWSPMiDUZCJKKbHlWLqd3Y/edit), [영문](https://docs.google.com/document/d/1M0WIKAzMmSEOP4WGxu70QNZPFE6FKA25/edit)
+최종 모델을 기반으로 [CSA 2022 The 14th International Conference on Computer Science and its Applications](http://csa-conference.org/2022/CSA%202022%20ProgramBook_final.pdf) 학회에 논문 제출 : [한글](https://docs.google.com/document/d/1N6WAI5JXIahWSPMiDUZCJKKbHlWLqd3Y/edit), [영문](https://docs.google.com/document/d/1M0WIKAzMmSEOP4WGxu70QNZPFE6FKA25/edit)
 
 [관련 코드 1](https://drive.google.com/drive/folders/1MRiQ8rLpbgbLXJOPLGqmdG6QFRHlv7r5?usp=sharing), [관련 코드 2](https://drive.google.com/drive/u/0/folders/0AOaC4Iatp9sdUk9PVA)
 
