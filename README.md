@@ -1,7 +1,7 @@
 # 김신영 포트폴리오
 ## 프로젝트
 ### 2022년 여름방학 데이터청년캠퍼스 수료
-#### [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215) 논문 리뷰
+#### 1. [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215) 논문 리뷰
 [접근 과정](https://blog.naver.com/cbrnt1210/222803218415)
 
 [발표 내용](https://blog.naver.com/cbrnt1210/222821276762)
@@ -16,7 +16,7 @@
 논문과 논문 리뷰를 통해서 논문 이해하고 팀원이 7명이었기에 각자 관심있는 분야를 나눠서 발표를 진행하였다.
 
 
-#### 팀프로젝트 : yolo기반 데이터 증강, 준지도학습을 활용하여 화상 이미지 분석
+#### 2. 팀프로젝트 : yolo기반 데이터 증강, 준지도학습을 활용하여 화상 이미지 분석
 [접근 과정](https://blog.naver.com/cbrnt1210/222857915789)
 
 최종 모델을 기반으로 CSA 2022 The 14th International Conference on Computer Science and its Applications 학회에 논문 제출 : [한글](https://docs.google.com/document/d/1N6WAI5JXIahWSPMiDUZCJKKbHlWLqd3Y/edit), [영문](https://docs.google.com/document/d/1M0WIKAzMmSEOP4WGxu70QNZPFE6FKA25/edit)
@@ -27,7 +27,7 @@
 
 <br>
 
-### 2023 1학기 캡스톤 프로젝트
+### 3. 2023 1학기 캡스톤 프로젝트
 
 
 #### 느낀점
@@ -35,7 +35,7 @@
 
 <br>
 
-### 2023 여름방학 [SW중심대학공동AI경진대회](https://dacon.io/competitions/open/236092/overview/description)
+### 4. 2023 여름방학 [SW중심대학공동AI경진대회](https://dacon.io/competitions/open/236092/overview/description)
 [관련 코드](https://github.com/sinyeong10/2023-SW-AI)
 
 #### 느낀점
@@ -48,7 +48,7 @@
 
 <br>
 
-### 2023년 스타크래프트2 build 강화학습
+### 5. 2023년 스타크래프트2 build 강화학습
 
 
 #### 느낀점
