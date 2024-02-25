@@ -100,7 +100,7 @@ MultiResidualBiGRU모델과 Deberta모델의 데이터 전처리 부분을 맡�
 
 가장 많은 성능의 향상을 이끌어낸 **변수의 차분**은 맨 처음에 변화량에 중점을 두고자 하는 의도로 시도되었다.
 
-프로젝트를 진행하면서 **off-line 상태**의 경우 진동 등으로 인해 반**복되는 값이 존재**하다는 것을 알 수 있었고 차분을 통해 해당 상태의 값을 0으로 만들 수 있어 성능의 향상을 가져왔다고 판단할 수 있었다.
+프로젝트를 진행하면서 **off-line 상태**의 경우 진동 등으로 인해 **반복되는 값이 존재**하다는 것을 알 수 있었고 차분을 통해 해당 상태의 값을 0으로 만들 수 있어 성능의 향상을 가져왔다고 판단할 수 있었다.
 
 또한 가속도 변수인 enmo의 처리에서 0에 가까운 값을 크게 처리하는 것이 Bi-GRU모델에서는 성능의 향상을 가져왔으나 Deberta 모델에서는 심각한 성능의 감소를 가져왔다.
 
@@ -119,6 +119,9 @@ MultiResidualBiGRU모델과 Deberta모델의 데이터 전처리 부분을 맡�
 2023년 여름방학 코드트리 코딩테스트 대비 캠프
 
 [![코드트리|실력진단-cbrnt1210](https://banner.codetree.ai/v1/banner/cbrnt1210)](https://www.codetree.ai/profiles/cbrnt1210)
+
+[코드트리 깃허브 연동 전 블로그에 작성](https://blog.naver.com/PostList.naver?blogId=cbrnt1210&from=postList&categoryNo=32), 
+[코드트리 깃허브 연동](https://github.com/sinyeong10/codetree-TILs)
 
 <br>
 
