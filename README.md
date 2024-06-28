@@ -72,24 +72,7 @@ yolov5과 albumentation 라이브러리를 통해 활용하고자하는 이미�
 
 <br>
 
-### 5. [진행중] 2023년 스타크래프트2 build 강화학습
-#### 목표 : 스타크래프트2 빌드를 강화학습을 통해서 최적화
-[관련 코드](https://github.com/sinyeong10/sc2ai)
-
-#### 느낀점
-스타크래프트2의 라이브러리를 활용하여 먼저 if문으로 강화학습으로 들어갈 명령을 구현하였다.
-
-이 과정 속에서 ASSIMILATOR에 들어간 workers의 정보가 누락된다는 것과 자원 최적화하는 distribute_workers 함수의 문제점을 찾을 수 있었다.
-
-운영체제 수업에서 배운 여러 lock 개념을 통해서 시도하며 가스에 일꾼을 이동시키는 것과 가장 가까운 일꾼이 넥서스 인접 지역에 가스를 건설하게 하였다.
-
-이후 특정 빌드의 최적화를 목표로 spinlock처럼 매 프레임마다 상태, 액션을 처리하는 환경을 구성하여 강화학습을 하고자 하였다.
-
-모델 학습에서 cpu가 100%라.. 지인의 노트북 환경에서 학습을 진행하였다..
-
-<br>
-
-### 6. 2023년 2학기 딥러닝 수업 팀프로젝트 : [Child Mind Institute - Detect Sleep States](https://www.kaggle.com/competitions/child-mind-institute-detect-sleep-states)
+### 5. 2023년 2학기 딥러닝 수업 팀프로젝트 : [Child Mind Institute - Detect Sleep States](https://www.kaggle.com/competitions/child-mind-institute-detect-sleep-states)
 #### 목표 : wrist-worn accelerometer data를 활용하여 수면 상태의 감지
 [관련 코드](https://github.com/Baek-Geonwoo/child-mind), [최종 레포트](https://drive.google.com/file/d/1PTQfU6eHY-pJzHIZrNuUPeXNfRX9uwk2/view?usp=sharing), [최종 발표](https://docs.google.com/presentation/d/11-5oXWKnNBCRS1zZgS4kej2f-fAkFSXe/edit?usp=sharing&ouid=102191975243173425108&rtpof=true&sd=true)
 
@@ -107,6 +90,39 @@ MultiResidualBiGRU모델과 Deberta모델의 데이터 전처리 부분을 맡�
 모델 자체에서 양방향 학습이 이뤄지기 때문에 데이터의 방향을 역전시켜 활용한 증강은 의미가 없었다.
 
 다른 사람이 올린 Discussion에서 데이터를 간단한 plot으로 그린 후에 객체 인식을 통해서 처리하여 높은 성능을 가져온 방법이 인상깊었다.
+
+<br>
+
+### 6. [중단] 2023년 2학기 sw연구프로젝트 및 실습 수업 프로젝트 : 강화학습 환경 구축에서 종료
+#### 목표 : 2차원 데이터를 3차원으로 변환 후 임의의 평면을 짤라 2차원 데이터로 변환
+[관련 코드](https://github.com/nowzero1702/slice_human)
+
+#### 느낀 점
+vtk 소프트웨어를 활용하여 팀원이 cleaning한 2차원 데이터를 쌓아 3차원 데이터로 만든 후 mesh 알고리즘으로 처리하였다.
+이후 벡터 2개를 통해 평면을 정의하였고 3차원 데이터를 평면의 법선벡터로 짤랐다.
+하지만 여기서 기울어진 평면의 경우 해당 평면을 2차원 데이터로 변환하지 못하고 학기가 끝났다.
+하지만 이후 ray tracing이라는 키워드를 알게 되었고 이를 통해 사영기하학이라는 개념을 통해 2차원 데이터를 변환하였다.
+
+<br>
+
+### 7. [진행중] 2023년 스타크래프트2 build 강화학습
+#### 목표 : 스타크래프트2 빌드를 강화학습을 통해서 최적화
+[관련 코드](https://github.com/sinyeong10/sc2ai)
+
+#### 느낀점
+스타크래프트2의 라이브러리를 활용하여 먼저 if문으로 강화학습으로 들어갈 명령을 구현하였다.
+
+이 과정 속에서 ASSIMILATOR에 들어간 workers의 정보가 누락된다는 것과 자원 최적화하는 distribute_workers 함수의 문제점을 찾을 수 있었다.
+
+운영체제 수업에서 배운 여러 lock 개념을 통해서 시도하며 가스에 일꾼을 이동시키는 것과 가장 가까운 일꾼이 넥서스 인접 지역에 가스를 건설하게 하였다.
+
+이후 특정 빌드의 최적화를 목표로 spinlock처럼 매 프레임마다 상태, 액션을 처리하는 환경을 구성하여 강화학습을 하고자 하였다.
+
+모델 학습에서 cpu가 100%라.. 지인의 노트북 환경에서 학습을 진행하였다..
+
+[강화학습 환경 체크1](https://www.youtube.com/watch?v=tk_b-34Y7To)
+[강화학습 환경 체크2](https://www.youtube.com/watch?v=OtZJ-FVxorc)
+[socket 통신 환경 체크]()
 
 <br>
 
