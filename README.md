@@ -125,8 +125,8 @@ vtk 소프트웨어를 활용하여 팀원이 cleaning한 2차원 데이터를 �
 
 [강화학습 환경 체크1](https://www.youtube.com/watch?v=tk_b-34Y7To)
 [강화학습 환경 체크2](https://www.youtube.com/watch?v=OtZJ-FVxorc)
-[socket 통신 환경 체크](https://www.youtube.com/shorts/hag-97SWrL0)
-[PPO 학습]()
+[socket 통신 환경 체크](https://youtu.be/dklST4kZquE)
+[PPO 학습](https://youtu.be/jJ6S70AD5BM)
 
 <br>
 
