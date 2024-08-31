@@ -106,7 +106,8 @@ vtk 소프트웨어를 활용하여 팀원이 cleaning한 2차원 데이터를 �
 
 하지만 이후 ray tracing이라는 키워드를 알게 되었고 이를 통해 사영기하학이라는 개념을 통해 2차원 데이터를 변환하였다.
 
-![vtk3차원2D변환예시](https://github.com/user-attachments/assets/8b666f83-2956-4ee8-b57c-9ed5297cd84f)
+<img src="https://github.com/user-attachments/assets/97fe00ed-8f9a-4175-9d32-a5b39132fdde" height="200"/>
+<img src="https://github.com/user-attachments/assets/8b666f83-2956-4ee8-b57c-9ed5297cd84f" height="200"/>
 
 <br>
 
