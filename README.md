@@ -106,6 +106,8 @@ vtk 소프트웨어를 활용하여 팀원이 cleaning한 2차원 데이터를 �
 
 하지만 이후 ray tracing이라는 키워드를 알게 되었고 이를 통해 사영기하학이라는 개념을 통해 2차원 데이터를 변환하였다.
 
+![vtk3차원2D변환예시](https://github.com/user-attachments/assets/8b666f83-2956-4ee8-b57c-9ed5297cd84f)
+
 <br>
 
 ### 7. [진행중] 2023년 스타크래프트2 build 강화학습
@@ -127,6 +129,15 @@ vtk 소프트웨어를 활용하여 팀원이 cleaning한 2차원 데이터를 �
 [강화학습 환경 체크2](https://www.youtube.com/watch?v=OtZJ-FVxorc)
 [socket 통신 환경 체크](https://youtu.be/zsYEaa6q-fQ)
 [PPO 학습](https://youtu.be/jJ6S70AD5BM)
+
+<br>
+
+### 8. [진행중] 2024년 mycobot320을 이용한 imitation learning
+#### 목표 : mycobot320을 imitation learning으로 동작
+[관련코드](https://github.com/sinyeong10/act-plus-plus_one)
+
+#### 느낀점
+....
 
 <br>
 
