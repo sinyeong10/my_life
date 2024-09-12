@@ -138,7 +138,31 @@ vtk 소프트웨어를 활용하여 팀원이 cleaning한 2차원 데이터를 �
 [관련코드](https://github.com/sinyeong10/act-plus-plus_one)
 
 #### 느낀점
-....
+2024.7.31 : [aloha코드](https://github.com/MarkFzp/act-plus-plus)를 기반으로 예시를 돌릴 수 있게 환경 설정 및 오타(?) 해결
+
+2024.8.02 : [aloha코드](https://github.com/MarkFzp/act-plus-plus)에서 imitate_episode.py 이해
+
+2024.8.04 : [aloha코드](https://github.com/MarkFzp/act-plus-plus)에서 policy.py 이해
+
+2024.8.13 : sim_move_cube_scripted라는 에피소드 설정
+
+2024.8.14 : sim_move_cube_scripted 에피소드를 위해 xml 파일 설정, 돌려보고 관련 내용 readme.md로 정리
+
+2024.8.16 : sim_move_cube_scripted 에피소드를 one arm으로 설정(모델 입출력 수정)
+
+2024.8.30 : sim_move_cube_scripted 에피소드를 one arm으로 50개의 데이터를 100000번 학습 시켰으나 일정 수준 이상 성공률이 올라가지 않음
+
+\[카메라를 2개로 하면 학습 시간이 카메라 1개에 비해 10배 늘어남, 더 작은 epoch로 성공하는 시점이 발생하나 시간상으로는 더 느림\]
+
+2024.9.07 : mycobot320으로 sim_move_cube_scripted 에피소드 구현
+
+2024.9.12 : mycobot320으로 10개의 데이터를 5000번 학습 후 결과 확인
+
+
+
+
+
+
 
 <br>
 
