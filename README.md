@@ -146,7 +146,7 @@ vtk 소프트웨어를 활용하여 팀원이 cleaning한 2차원 데이터를 �
 
 2024.8.13 : sim_move_cube_scripted라는 에피소드 설정
 
-2024.8.14 : sim_move_cube_scripted 에피소드를 위해 xml 파일 설정, 돌려보고 관련 내용 readme.md로 정리
+2024.8.14 : sim_move_cube_scripted 에피소드를 위해 xml 파일 설정, 돌려보고 [관련 내용](https://github.com/sinyeong10/act-plus-plus_one/blob/main/scr_readme.md)로 정리
 
 2024.8.16 : sim_move_cube_scripted 에피소드를 one arm으로 설정(모델 입출력 수정)
 
