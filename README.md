@@ -139,7 +139,7 @@ vtk 소프트웨어를 활용하여 팀원이 cleaning한 2차원 데이터를 �
 #### 목표 : mycobot320을 imitation learning으로 동작
 [관련코드](https://github.com/sinyeong10/act-plus-plus_one)
 
-#### 느낀점
+#### 진행 과정
 2024.7.31 : [aloha코드](https://github.com/MarkFzp/act-plus-plus)를 기반으로 예시를 돌릴 수 있게 환경 설정 및 오타(?) 해결
 
 2024.8.02 : [aloha코드](https://github.com/MarkFzp/act-plus-plus)에서 imitate_episode.py 이해
