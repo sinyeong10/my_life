@@ -171,9 +171,11 @@ vtk 소프트웨어를 활용하여 팀원이 cleaning한 2차원 데이터를 �
 [socket 통신 환경 체크](https://youtu.be/zsYEaa6q-fQ)
 [PPO 학습](https://youtu.be/jJ6S70AD5BM)
 
-<img src="https://github.com/user-attachments/assets/897865ea-ec05-47c9-b86a-f533c145737c" height="200"/>
-
 학습 결과 시각화 예시
+
+<img src="https://github.com/user-attachments/assets/c4e87482-2654-4153-b210-73d4ed3d9d6b" height="300"/>
+<img src="https://github.com/user-attachments/assets/69f179ff-dde0-43fb-9799-9281b67c1a8c" height="300"/>
+
 
 <br>
 
