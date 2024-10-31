@@ -236,7 +236,9 @@ masking
 <img src="https://github.com/user-attachments/assets/cdd663e9-9594-4edb-9be0-e053b48dee7f" height="300"/>
 <img src="https://github.com/user-attachments/assets/b34490df-a604-4403-b183-114c5e3c1e33" height="300"/>
 
-\[imitation의 특성에 따라 배경을 분류해낼 수 있지만 mycobot320의 로봇암과 연결된 카메라 선의 위치가 매번 바껴서 배경 제거할 때 고려해야 함\]
+\[imitation의 특성에 따라 배경을 분류해낼 수 있고 카메라의 노이즈는 회전변환행렬을 통해서 매칭 시킬 수 있을 것임\]
+
+\[하지만 mycobot320의 로봇암과 연결된 카메라 선의 위치가 매번 바껴서 배경 제거할 때 고려해야 함\]
 
 <br>
 
