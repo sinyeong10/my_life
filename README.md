@@ -226,7 +226,7 @@ vtk 소프트웨어를 활용하여 팀원이 cleaning한 2차원 데이터를 �
 
 \[chunk가 클수록 현재 상태에서 다음 상태를 더 고려하기에 행동이 부드러워지지만 좀 더 줄여야 할 듯?\]
 
-2024.10.31 : 상황에 따른 판단 분석을 위해 resnet18의 feature map을 살펴봄, imitation의 특성에 따라 간단한 masking 코드 생성, chunk size 75로 결정
+2024.10.31 : 상황에 따른 판단 분석을 위해 resnet18의 feature map을 살펴봄, imitation의 특성에 따라 간단한 masking하는 코드 생성, chunk size 75로 결정
 
 <img src="https://github.com/user-attachments/assets/2076220c-08f8-42ce-8c72-4b3e363e9cd6" height="300"/>
 <img src="https://github.com/user-attachments/assets/50f0c9a6-5eb7-497c-a6f5-660ebb5d3bfd" height="300"/>
