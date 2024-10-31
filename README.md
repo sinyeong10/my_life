@@ -228,6 +228,14 @@ vtk 소프트웨어를 활용하여 팀원이 cleaning한 2차원 데이터를 �
 
 2024.10.31 : 상황에 따른 판단 분석을 위해 resnet18의 feature map을 살펴봄, imitation의 특성에 따라 간단한 masking 코드 생성, chunk size 75로 결정
 
+<img src="https://github.com/user-attachments/assets/2076220c-08f8-42ce-8c72-4b3e363e9cd6" height="300"/>
+<img src="https://github.com/user-attachments/assets/50f0c9a6-5eb7-497c-a6f5-660ebb5d3bfd" height="300"/>
+
+masking
+
+<img src="https://github.com/user-attachments/assets/cdd663e9-9594-4edb-9be0-e053b48dee7f" height="300"/>
+<img src="https://github.com/user-attachments/assets/b34490df-a604-4403-b183-114c5e3c1e33" height="300"/>
+
 <br>
 
 ## 알고리즘
