@@ -242,7 +242,7 @@ masking
 
 [\하지만 주요 박스를 제외하고 모두 마스킹하면 공간적 정보를 인식하지 못해서 제대로 행동하지 못하는 듯!\]
 
-2024.11.14 : 이전 실패한 모델의 feature map 분석
+2024.11.14 : 이전 실패한 모델의 feature map 분석, 데이터 전처리를 통해 2가지 행동 중 무엇을 해야할 지 판단하여 동작 성공!!
 
 첫번째 행동으로 동작한 2번째 카메라의 값이 모두 0일 때의 이미지와 feature map
 
@@ -253,6 +253,8 @@ masking
 
 <img src="https://github.com/user-attachments/assets/3e71bdb9-e3fb-4042-a395-53cbd5a8fd06" height="300">
 <img src="https://github.com/user-attachments/assets/38f5b733-0437-4d37-aa26-7ad53c70c6eb" height="300">
+
+[하나의 모델로 2가지의 행동을 판단하여 동작](https://youtu.be/vXW5mIuQnWM)
 
 <br>
 
