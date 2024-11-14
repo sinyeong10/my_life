@@ -246,7 +246,7 @@ masking
 
 첫번째 행동으로 동작한 2번째 카메라의 값이 모두 0일 때의 이미지와 feature map
 
-<img src="https://github.com/user-attachments/assets/149ede02-ce5e-4526-981c-0977a64f98bb" height="300">
+<img src="https://github.com/user-attachments/assets/ae7e85c9-8baf-40cb-a12f-381857840ea4" height="300">
 <img src="https://github.com/user-attachments/assets/beeb68b3-7ada-4075-9fe8-61dafef65ff8" height="300">
 
 첫번째 행동으로 동작해야 하지만 두번째 행동을 할 때의 2번째 카메라의 이미지와 feature map
