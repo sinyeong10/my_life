@@ -245,6 +245,7 @@ masking
 2024.11.14 : 이전 실패한 모델의 feature map 분석
 
 첫번째 행동으로 동작한 2번째 카메라의 값이 모두 0일 때의 이미지와 feature map
+
 <img src="https://github.com/user-attachments/assets/149ede02-ce5e-4526-981c-0977a64f98bb" height="300">
 <img src="https://github.com/user-attachments/assets/beeb68b3-7ada-4075-9fe8-61dafef65ff8" height="300">
 
