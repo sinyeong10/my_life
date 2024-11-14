@@ -240,6 +240,19 @@ masking
 
 \[하지만 mycobot320의 로봇암과 연결된 카메라 선의 위치가 매번 바껴서 배경 제거할 때 고려해야 함\]
 
+[\하지만 주요 박스를 제외하고 모두 마스킹하면 공간적 정보를 인식하지 못해서 제대로 행동하지 못하는 듯!\]
+
+2024.11.14 : 이전 실패한 모델의 feature map 분석
+
+첫번째 행동으로 동작한 2번째 카메라의 값이 모두 0일 때의 이미지와 feature map
+<img src="https://github.com/user-attachments/assets/149ede02-ce5e-4526-981c-0977a64f98bb" height="300">
+<img src="https://github.com/user-attachments/assets/beeb68b3-7ada-4075-9fe8-61dafef65ff8" height="300">
+
+첫번째 행동으로 동작해야 하지만 두번째 행동을 할 때의 2번째 카메라의 이미지와 feature map
+
+<img src="https://github.com/user-attachments/assets/3e71bdb9-e3fb-4042-a395-53cbd5a8fd06" height="300">
+<img src="https://github.com/user-attachments/assets/38f5b733-0437-4d37-aa26-7ad53c70c6eb" height="300">
+
 <br>
 
 ## 알고리즘
