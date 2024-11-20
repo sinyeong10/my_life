@@ -240,7 +240,7 @@ masking
 
 \[하지만 mycobot320의 로봇암과 연결된 카메라 선의 위치가 매번 바껴서 배경 제거할 때 고려해야 함\]
 
-[\하지만 주요 박스를 제외하고 모두 마스킹하면 공간적 정보를 인식하지 못해서 제대로 행동하지 못하는 듯!\]
+\[하지만 주요 박스를 제외하고 모두 마스킹하면 공간적 정보를 인식하지 못해서 제대로 행동하지 못하는 듯!\]
 
 2024.11.14 : 이전 실패한 모델의 feature map 분석, 데이터 전처리를 통해 2가지 행동 중 무엇을 해야할 지 판단하여 동작 성공!!
 
@@ -255,6 +255,10 @@ masking
 <img src="https://github.com/user-attachments/assets/38f5b733-0437-4d37-aa26-7ad53c70c6eb" height="300">
 
 [하나의 모델로 2가지의 행동을 판단하여 동작](https://youtu.be/vXW5mIuQnWM)
+
+2024.11.19 : [Residual Attention Network for Image Classification](https://arxiv.org/abs/1704.06904)논문과 [구현 링크](https://github.com/Necas209/ResidualAttentionNetwork-PyTorch?tab=readme-ov-file)를 참고하여 backbone의 차원을 맞춰 교체 시도, 모델의 경량화 필요성을 확인, Optimiser를 SGD, Adam로 설정하는 것에 따른 성능 차이를 확인
+
+\[resent151x2 혹은 resnet50, residualattentionmodel92는 모델 크기가 180M 넘어가서 gpu 메모리 한계가 걸림.. resnet18 기준으로 새로 모델을 짜서 경량화 시도 중\]
 
 <br>
 
