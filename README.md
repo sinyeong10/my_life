@@ -256,7 +256,7 @@ masking
 
 [하나의 모델로 2가지의 행동을 판단하여 동작](https://youtu.be/vXW5mIuQnWM)
 
-2024.11.19 : [Residual Attention Network for Image Classification](https://arxiv.org/abs/1704.06904)논문과 [구현 링크](https://github.com/Necas209/ResidualAttentionNetwork-PyTorch?tab=readme-ov-file)를 참고하여 backbone의 차원을 맞춰 교체 시도, 모델의 경량화 필요성을 확인, Optimiser를 SGD, Adam로 설정하는 것에 따른 성능 차이를 확인
+2024.11.19 : [Residual Attention Network for Image Classification](https://arxiv.org/abs/1704.06904)논문과 [구현 링크](https://github.com/Necas209/ResidualAttentionNetwork-PyTorch?tab=readme-ov-file)를 참고하여 backbone의 차원을 맞춰 교체 시도, 모델의 경량화 필요성을 확인, Optimizer를 SGD, Adam로 설정하는 것에 따른 성능 차이를 확인
 
 \[resent151x2 혹은 resnet50, residualattentionmodel92는 모델 크기가 180M 넘어가서 gpu 메모리 한계가 걸림.. resnet18 기준으로 새로 모델을 짜서 경량화 시도 중\]
 
