@@ -106,8 +106,8 @@ vtk 소프트웨어를 활용하여 팀원이 cleaning한 2차원 데이터를 �
 
 하지만 이후 ray tracing이라는 키워드를 알게 되었고 이를 통해 사영기하학이라는 개념을 통해 2차원 데이터를 변환하였다.
 
-<img src="https://github.com/user-attachments/assets/97fe00ed-8f9a-4175-9d32-a5b39132fdde" height="200"/>
-<img src="https://github.com/user-attachments/assets/8b666f83-2956-4ee8-b57c-9ed5297cd84f" height="200"/>
+<img src="https://github.com/user-attachments/assets/97fe00ed-8f9a-4175-9d32-a5b39132fdde" height="250"/>
+<img src="https://github.com/user-attachments/assets/8b666f83-2956-4ee8-b57c-9ed5297cd84f" height="250"/>
 
 <br>
 
@@ -177,8 +177,8 @@ vtk 소프트웨어를 활용하여 팀원이 cleaning한 2차원 데이터를 �
 
 학습 결과 시각화 예시
 
-<img src="https://github.com/user-attachments/assets/c4e87482-2654-4153-b210-73d4ed3d9d6b" height="300"/>
-<img src="https://github.com/user-attachments/assets/69f179ff-dde0-43fb-9799-9281b67c1a8c" height="300"/>
+<img src="https://github.com/user-attachments/assets/c4e87482-2654-4153-b210-73d4ed3d9d6b" height="250"/>
+<img src="https://github.com/user-attachments/assets/69f179ff-dde0-43fb-9799-9281b67c1a8c" height="250"/>
 
 
 <br>
@@ -246,13 +246,13 @@ masking
 
 첫번째 행동으로 동작한 2번째 카메라의 값이 모두 0일 때의 이미지와 feature map
 
-<img src="https://github.com/user-attachments/assets/ae7e85c9-8baf-40cb-a12f-381857840ea4" height="300">
-<img src="https://github.com/user-attachments/assets/beeb68b3-7ada-4075-9fe8-61dafef65ff8" height="300">
+<img src="https://github.com/user-attachments/assets/ae7e85c9-8baf-40cb-a12f-381857840ea4" height="250">
+<img src="https://github.com/user-attachments/assets/beeb68b3-7ada-4075-9fe8-61dafef65ff8" height="250">
 
 첫번째 행동으로 동작해야 하지만 두번째 행동을 할 때의 2번째 카메라의 이미지와 feature map
 
-<img src="https://github.com/user-attachments/assets/3e71bdb9-e3fb-4042-a395-53cbd5a8fd06" height="300">
-<img src="https://github.com/user-attachments/assets/38f5b733-0437-4d37-aa26-7ad53c70c6eb" height="300">
+<img src="https://github.com/user-attachments/assets/3e71bdb9-e3fb-4042-a395-53cbd5a8fd06" height="250">
+<img src="https://github.com/user-attachments/assets/38f5b733-0437-4d37-aa26-7ad53c70c6eb" height="250">
 
 [하나의 모델로 2가지의 행동을 판단하여 동작](https://youtu.be/vXW5mIuQnWM)
 
