@@ -260,7 +260,7 @@ masking
 
 \[resent151x2 혹은 resnet50, residualattentionmodel92는 모델 크기가 180M 넘어가서 gpu 메모리 한계가 걸림.. resnet18 기준으로 새로 모델을 짜서 경량화 시도 중\]
 
-2024.11.21 : [구현 링크](https://github.com/Necas209/ResidualAttentionNetwork-PyTorch?tab=readme-ov-file)를 참고하여 ResidualAttentionModel56U의 성능 테스트, resnet18과 ResidualAttentionModel을 바탕으로 새로운 모델 구성 테스트, cifar 데이터셋으로 평가
+2024.11.21 : [구현 링크](https://github.com/Necas209/ResidualAttentionNetwork-PyTorch?tab=readme-ov-file)를 참고하여 ResidualAttentionModel56U의 성능 테스트, resnet18과 ResidualAttentionModel을 바탕으로 새롭게 작성한 모델(Resent18AttentionModelU) 성능 테스트, CIFAR-10 데이터셋으로 평가
 
 \[ResidualAttentionModel56U : Total params : 7,202,794, Estimated Total Size (MB) : 107.90, Number of model parameters : 11413482, epoch 100 Test Accuracy : 93.86%\]
 
