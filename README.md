@@ -180,6 +180,16 @@ vtk 소프트웨어를 활용하여 팀원이 cleaning한 2차원 데이터를 �
 <img src="https://github.com/user-attachments/assets/c4e87482-2654-4153-b210-73d4ed3d9d6b" height="250"/>
 <img src="https://github.com/user-attachments/assets/69f179ff-dde0-43fb-9799-9281b67c1a8c" height="250"/>
 
+9. chunk 사이즈가 고정이 아닌 action chunk 형태로 목표 달성까지 행동 생성
+
+이전의 경우 하나의 에피소드에서 하나만 학습되어 완전 탐색보다 베이지안 통계학 측면에서 이점을 보인다.
+
+하지만 action chunk의 형태로 현재 상태에서 목표 달성까지의 행동을 생성하는 모델로 정의한다면 하나의 에피소드에서 앞의 행동을 하나씩 마스킹함으로서 여러 데이터를 생성해 학습할 수 있을 것이다!!
+
+또한 데이터의 특성을 활용하여 이미지에서 ROI 영역을 계산했듯이 목표 달성을 위한 정보로 한정한다면 전체 데이터 중 의미없는 데이터의 영향을 지울 수 있을 것이다.
+
+
+
 
 <br>
 
