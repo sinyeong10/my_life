@@ -44,7 +44,7 @@ yolov5과 albumentation 라이브러리를 통해 활용하고자하는 이미�
 
 ### 3. 2023 1학기 캡스톤 프로젝트
 #### 목표 : stable diffusion을 활용하여 클래식 음악 데이터를 통해서 이미지의 분위기 변환
-[관련 코드](https://github.com/sinyeong10/Multi_object_recognition-)
+[관련 코드](https://github.com/sinyeong10/Multi_object_recognition-), [최종 발표](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fsinyeong10%2FMulti_object_recognition-%2Frefs%2Fheads%2Fmain%2F%25EC%2586%25A5%25EB%259A%259C%25EA%25BB%2591_%25EC%25B5%259C%25EC%25A2%2585%25EB%25B0%259C%25ED%2591%259C.pptx&wdOrigin=BROWSELINK)
 
 #### 느낀점
 활용한 데이터가 음원으로 매우 큰 데이터였다.
